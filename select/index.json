@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君とレゲエにテキられて",
+  "base_artist": "ケツメイシ",
+  "createdAt": "2026-01-01T14:27:46.133591Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君とレゲエにテキられて",
+      "artist": "ケツメイシ",
+      "has_synced": false,
+      "path": "select/pl_01_君とレゲエにテキられて_ケツメイシ.txt"
+    }
+  ]
+}
